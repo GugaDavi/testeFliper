@@ -4,7 +4,7 @@
 
 Clone este repositório através da linha de comando
 
-git clone https://bitbucket.org/gugadavi/empresas-react-native/src/master/ - **Necessario git estar instalado**
+git clone https://github.com/GugaDavi/testeFliper - **Necessario git estar instalado**
 
 Ou faça o download e extraia os arquivos.
 
